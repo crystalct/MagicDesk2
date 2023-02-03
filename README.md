@@ -40,7 +40,7 @@ You can configure this cartridge to partially follow the functional specificatio
 - ROM is always mapped in at $8000-$9FFF (8k game)
 - No Write capability
 - Register at IO1 / $DE00
-   - bit 0-7   bank number (128 banks)
+   - bit 0-7   bank number (256 banks)
 - Register at $DE08
    - bit6 EXROM (to disable cartridge)
 - No bitbang mode
