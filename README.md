@@ -16,10 +16,8 @@ Old Magic Desk Cartridge coul be:
 
 ROM is always mapped in at $8000-$9FFF (8k game).
 
-1 register at io1 / de00:
-
-bit 0-6   bank number
-
+1 register at io1 / de00:<br />
+bit 0-6   bank number<br />
 bit 7     exrom (1 = cart disabled)
 
 
