@@ -14,10 +14,11 @@ Old Magic Desk Cartridge coul be:
 - DDI Magic Cart [32 banks, 256kb]
 - Magic Desk Clone homebrew cart [64 banks, 512kb and 128banks, 1MB]
 
-ROM is always mapped in at $8000-$9FFF (8k game).<br />
-_1 register at io1 / de00:<br />
-bit 0-6   bank number<br />
-bit 7     exrom (1 = cart disabled)
+Furthermore:
+- ROM is always mapped in at $8000-$9FFF (8k game)
+- 1 register at io1 / de00
+   - bit 0-6   bank number
+   - bit 7     exrom (1 = cart disabled)
 
 
 
