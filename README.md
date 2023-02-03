@@ -9,7 +9,7 @@ Open Hardware Project to build a 3 in 1 cartridge based on Magic Desk 1MB and Un
 
 Magic Desk 16Kbyte config
 -------------------------
-Old Magic Desk Cartridge coul be:
+Old Magic Desk Cartridge could be:
 - standard [32Kb (4 banks), 64Kb (8 banks) and 128Kb (16 banks)]
 - DDI Magic Cart [32 banks, 256kb]
 - Magic Desk Clone homebrew cart [64 banks, 512kb and 128banks, 1MB]
