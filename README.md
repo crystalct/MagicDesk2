@@ -45,7 +45,7 @@ You can configure this cartridge to partially follow the functional specificatio
    - bit6 EXROM (to disable cartridge)
 - No bitbang mode
 
-Magic Desk Cartridge Generator will be modded to write 2Mbyte bin images of games compilation.
+Magic Desk Cartridge Generator will be modded to write 2Mbyte GMod3 bin images of games compilation.
 
 
 ![PCB](./images/MD2.png)
