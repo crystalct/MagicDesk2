@@ -33,4 +33,9 @@ Double Magic Desk 1MB
 ---------------------
 You can put 2 different 1MByte bin images inside 27C160 EPROM (from $000000 to $0FFFFF and from $100000 to $1FFFFF) and select them using SWCOMP1 switch like 2 different sides of a magnetic tape data storage.<br/>Bin files can be made using [Magic Desk Cartridge Generator](https://bitbucket.org/zzarko/magic-desk-cartridge-generator/), as usual.
 
+GMod3 2MB Read Only cartridge
+-----------------------------
+You can configure this cartridge to partially follow the functional specifications of the [GMod3 (Individual Computers)](http://wiki.icomp.de/wiki/GMod3) cartridge type.
+
+
 ![PCB](./images/MD2.png)
