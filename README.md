@@ -20,6 +20,12 @@ Furthermore:
    - bit 0-6   bank number
    - bit 7     exrom (1 = cart disabled)
 
-
+**Magic Desk 16Kbyte config**
+- supports all "Magic Desk Clone" homebrew cart with 16k game config, up to 2 MB
+- ROM is always mapped in at $8000-$BFFF (16k game)
+- 1 register at io1 / de00
+   - bit 0-6   bank number
+   - bit 7     exrom (1 = cart disabled)
+So, 128 banks and one bank is 16Kbyte: 2MByte of ROM space.
 
 ![PCB](./images/MD2.png)
