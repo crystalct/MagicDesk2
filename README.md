@@ -10,9 +10,9 @@ Open Hardware Project to build a 3 in 1 cartridge based on Magic Desk 1MB and Un
 Magic Desk 16Kbyte config
 -------------------------
 Magic Desk Cartridge coul be:
-      - standard [32Kb (4 banks), 64Kb (8 banks) and 128Kb (16 banks)]
-      - DDI Magic Cart [32 banks, 256kb]
-      - Magic Desk Clone homebrew cart [64 banks, 512kb and 128banks, 1MB]
+- standard [32Kb (4 banks), 64Kb (8 banks) and 128Kb (16 banks)]
+- DDI Magic Cart [32 banks, 256kb]
+- Magic Desk Clone homebrew cart [64 banks, 512kb and 128banks, 1MB]
 
 ROM is always mapped in at $8000-$9FFF (8k game).
 1 register at io1 / de00:
