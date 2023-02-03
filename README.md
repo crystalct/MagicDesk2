@@ -26,6 +26,7 @@ Furthermore:
 - 1 register at io1 / de00
    - bit 0-6   bank number
    - bit 7     exrom (1 = cart disabled)
+
 So, 128 banks and one bank is 16Kbyte: 2MByte of ROM space.
 
 ![PCB](./images/MD2.png)
