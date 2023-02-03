@@ -35,13 +35,14 @@ You can put 2 different 1MByte bin images inside 27C160 EPROM (from $000000 to $
 
 GMod3 2MB Read Only cartridge
 -----------------------------
-You can configure this cartridge to partially follow the functional specifications of the [GMod3 (Individual Computers)](http://wiki.icomp.de/wiki/GMod3) cartridge type.
+You can configure this cartridge to partially follow the functional specifications of the [GMod3 (Individual Computers)](http://wiki.icomp.de/wiki/GMod3) cartridge type:
 - 2MB of ROM space
 - ROM is always mapped in at $8000-$9FFF (8k game)
 - No Write capability
 - Register at IO1 / $DE00
    - bit 0-7   bank number (128 banks)
-- Register at $DE08: bit6 EXROM (to disable cartridge)
+- Register at $DE08
+   - bit6 EXROM (to disable cartridge)
 - No bitbang mode
 
 Magic Desk Cartridge Generator will be modded to write 2Mbyte bin images of games compilation.
