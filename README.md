@@ -45,7 +45,7 @@ You can configure this cartridge to partially follow the functional specificatio
    - bit 6 EXROM (1 = cart disabled)
 - No bitbang mode
 
-You can use [Magic Cartridge Generator](https://bitbucket.org/zzarko/magic-cartridge-generator) (by Žarko Živanov) to make 2Mbyte GMod3 bin images of games compilation.
+You can use the new [Magic Cartridge Generator](https://bitbucket.org/zzarko/magic-cartridge-generator) (by Žarko Živanov) to make 2Mbyte GMod3 bin images of games compilation.
 
 Componets
 ---------
