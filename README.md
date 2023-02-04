@@ -56,6 +56,7 @@ Componets
 - 100nF x3 [C1, C2, C5]
 
 <br/>
+
 **Magic Desk 16Kbyte only**
 - 10K Ω [R3]
 - 1N4148 x2 [D1, D2]
