@@ -45,7 +45,7 @@ You can configure this cartridge to partially follow the functional specificatio
    - bit 6 EXROM (1 = cart disabled)
 - No bitbang mode
 
-Magic Desk Cartridge Generator will be modded to make 2Mbyte GMod3 bin images of games compilation.
+You can use [Magic Cartridge Generator](https://bitbucket.org/zzarko/magic-cartridge-generator) to make 2Mbyte GMod3 bin images of games compilation.
 
 Componets
 ---------
