@@ -92,6 +92,7 @@ Jumper configuration
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Short 2 and 3|Short 1 and 2|Short 1 and 2|Short 2 and 3|Closed|Short 2 and 3|
 |![J2](./images/j2.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J2](./images/j2.png)|![J4](./images/j4.png)|![J2](./images/j2.png)|
+
 (Put D1, D2 and R3)
 
 <br/>
@@ -102,6 +103,7 @@ Jumper configuration
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Short 1 and 2|Short 1 and 2|Short 1 and 2|Short 1 and 2|Open|Short 1 and 2|
 |![J1](./images/j1.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J3](./images/j3.png)|![J1](./images/j1.png)|
+
 (Put SWCOMP1 and R2)
 
 <br/>
@@ -112,6 +114,7 @@ Jumper configuration
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Short 1 and 2|Short 2 and 3|Short 2 and 3|Short 1 and 2|Open|Short 1 and 2|
 |![J1](./images/j1.png)|![J2](./images/j2.png)|![J2](./images/j2.png)|![J1](./images/j1.png)|![J3](./images/j3.png)|![J1](./images/j1.png)|
+
 (Put IC4, R4, D3, D4 and C4)
 
 
