@@ -93,3 +93,5 @@ Thanks to:
 License
 -------
 Magic Desk 2 is Open Hardware licensed under the [CERN OHL v. 1.2](http://ohwr.org/cernohl), released by *Salvo Cristaldi* in 2023. You may redistribute and modify this documentation under the terms of the CERN OHL v.1.2.
+
+![J1](./images/j1.png)
