@@ -90,8 +90,15 @@ Jumper configuration
 
 | JCOMP1 | JCOMP2 | JCOMP3 | J16A1 | J16B1 | J16C1-8|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Short 2 and 3|Short 1 and 2|Short 1 and 2|Short 2 and 3|Closed|Short 2 and 3|
-|![J2](./images/j2.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J2](./images/j2.png)|![J4](./images/j4.png)|![J2](./images/j2.png)|
+|Short 2 and 3|Short 1 and 2|Short 1 and 2|Short 1 and 2|Open|Short 1 and 2|
+|![J2](./images/j2.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J3](./images/j3.png)|![J1](./images/j1.png)|
+
+**Double Magic Desk 1MB**
+
+| JCOMP1 | JCOMP2 | JCOMP3 | J16A1 | J16B1 | J16C1-8|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Short 1 and 2|Short 1 and 2|Short 1 and 2|Short 2 and 3|Closed|Short 2 and 3|
+|![J1](./images/j1.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J2](./images/j2.png)|![J4](./images/j4.png)|![J2](./images/j2.png)|
 
 
 Thanks to:
