@@ -42,7 +42,7 @@ You can configure this cartridge to partially follow the functional specificatio
 - Register at IO1 / $DE00
    - bit 0-7   bank number (256 banks)
 - Register at $DE08
-   - bit6 EXROM (1 = cart disabled)
+   - bit 6 EXROM (1 = cart disabled)
 - No bitbang mode
 
 Magic Desk Cartridge Generator will be modded to make 2Mbyte GMod3 bin images of games compilation.
