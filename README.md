@@ -65,7 +65,7 @@ Componets
 
 **GMod3 2MB only**
 - 74LS175 (or 74HCT175) [IC4]
-- 10K Ω x2 [R4]
+- 10K Ω [R4]
 - 1N4148 x2 [D3, D4]
 - 100nF [C4]
 
