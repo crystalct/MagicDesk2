@@ -92,4 +92,4 @@ Thanks to:
 
 License
 -------
-c64-uni-cart is Open Hardware licensed under the [CERN OHL v. 1.2](http://ohwr.org/cernohl), released by *Salvo Cristaldi* in 2023. You may redistribute and modify this documentation under the terms of the CERN OHL v.1.2.
+Magic Desk 2 is Open Hardware licensed under the [CERN OHL v. 1.2](http://ohwr.org/cernohl), released by *Salvo Cristaldi* in 2023. You may redistribute and modify this documentation under the terms of the CERN OHL v.1.2.
