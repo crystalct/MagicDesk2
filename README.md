@@ -119,15 +119,10 @@ Jumper configuration
 
 <br/>
 
-**JPUnlocked1**
-
-By shorting 1 and 2 it will be possible to disable and enable the cartridge using the EXROM register ($DE08 - bit 6 for GMod3, $DE00 - bit 7 for Magic Desk cartridges).
-<br/>
-![J1](./images/j1.png)
-
-By shorting 2 and 3 it will be possible only to disable the cartridge using the EXROM register.
-<br/>
-![J2](./images/j2.png)
+|**JPUnlocked1**|
+|---------------|
+|By shorting 1 and 2 it will be possible to disable and enable the cartridge using the EXROM register ($DE08 - bit 6 for GMod3, $DE00 - bit 7 for Magic Desk cartridges).<br/>![J1](./images/j1.png)|
+|By shorting 2 and 3 it will be possible only to disable the cartridge using the EXROM register.<br/>![J2](./images/j2.png)|
 
 <br/>
 
