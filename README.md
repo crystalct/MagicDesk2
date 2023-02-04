@@ -88,7 +88,7 @@ Thanks to:
 ----------
 - Žarko Živanov, for creating the Magic Desk Cartridge Generator
 - Marko Šolajić, for creating some Magic Desk Clone homebrew cartridge
-- Individual Computer for GMod3 specifications
+- Individual Computers for GMod3 specifications
 
 License
 -------
