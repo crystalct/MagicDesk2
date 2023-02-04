@@ -89,11 +89,11 @@ Jumper configuration
 **Magic Desk 16Kbyte config**
 
 JCOMP1: short 2 and 3<br/>
-![J2](./images/j2.png)
-JCOMP2: short 1 and 2
-![J1](./images/j1.png)
-JCOMP3: short 1 and 2
-![J1](./images/j1.png)
+![J2](./images/j2.png)<br/>
+JCOMP2: short 1 and 2<br/>
+![J1](./images/j1.png)<br/>
+JCOMP3: short 1 and 2<br/>
+![J1](./images/j1.png)<br/>
 
 Thanks to:
 ----------
