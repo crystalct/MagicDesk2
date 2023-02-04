@@ -59,17 +59,17 @@ Componets
 - 10K Ω [R3]
 - 1N4148 x2 [D1, D2]
 
-**Double Magic Desk 1MB only**
+**GMod3 2MB only**
 - 74LS175 (or 74HCT175) [IC4]
-- 10K Ω x2 [R3, R4]
+- 10K Ω x2 [R4]
 - 1N4148 x2 [D3, D4]
 - 100nF [C4]
 
-**GMod3 2MB only**
+**Double Magic Desk 1MB only**
 - Push Button On Off Self Lock UnLock Switch DIP 6 Pin 7x7mm [SWCOMP1]
 - 10K Ω [R2]
 
-**Optional lighting eyes (all configurations]**
+**Optional lighting eyes (all configurations)**
 - SMD led x2 [DE1, DE2]
 - From 400 to 1K Ω [R1]
 
