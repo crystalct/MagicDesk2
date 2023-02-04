@@ -25,7 +25,7 @@ Furthermore:
 - ROM is always mapped in at $8000-$BFFF (16k game)
 - 1 register at io1 / de00
    - bit 0-6   bank number
-   - bit 7     exrom (1 = cart disabled)
+   - bit 7     EXROM (1 = cart disabled)
 
 So, 128 banks and one bank is 16Kbyte: 2MByte of ROM space.
 
@@ -42,7 +42,7 @@ You can configure this cartridge to partially follow the functional specificatio
 - Register at IO1 / $DE00
    - bit 0-7   bank number (256 banks)
 - Register at $DE08
-   - bit6 EXROM (to disable cartridge)
+   - bit6 EXROM (1 = cart disabled)
 - No bitbang mode
 
 Magic Desk Cartridge Generator will be modded to make 2Mbyte GMod3 bin images of games compilation.
