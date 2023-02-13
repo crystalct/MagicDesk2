@@ -50,36 +50,38 @@ You can use the new [Magic Cartridge Generator](https://bitbucket.org/zzarko/mag
 Componets
 ---------
 **All configurations**
-- 27C160 [IC1]
-- 74LS273 (or 74HCT273) [IC2]
-- 74LS02 (or 74HCT02) [IC3]
-- 100nF x3 [C1, C2, C5]
+- 27C160 (DIP_42) [IC1]
+- 74LS273 (or 74HCT273) (SOP_20) [IC2]
+- 74LS02 (or 74HCT02) (SO_14) [IC3]
+- 100nF (SMD_0805) x3 [C1, C2, C3]
 
 <br/>
 
 **Magic Desk 16Kbyte only**
-- 10K Ω [R3]
-- 1N4148 x2 [D1, D2]
+- 10K Ω (SMD_1206) [R3]
+- 1N4148 (SMD_0805) x2 [D1, D2]
 
 <br/>
 
 **GMod3 2MB only**
-- 74LS175 (or 74HCT175) [IC4]
-- 10K Ω [R4]
-- 1N4148 x2 [D3, D4]
-- 100nF [C4]
+- 74LS175 (or 74HCT175) (TSSOP_16) [IC4]
+- 74LS00 (or 74HCT00) (SO_14) [IC5]
+- 10K Ω (SMD_1206) [R4]
+- 1N4148 (SMD_1206) x2 [D3, D4]
+- 100nF (SMD_0805) [C4, C5]
 
 <br/>
 
 **Double Magic Desk 1MB only**
 - Push Button On Off Self Lock UnLock Switch DIP 6 Pin 7x7mm [SWCOMP1]
-- 10K Ω [R2]
+  - or alternatively any kind of on/off switch connected to JP1
+- 10K Ω (SMD_1206) [R2]
 
 <br/>
 
 **Optional lighting eyes (all configurations)**
-- SMD led x2 [DE1, DE2]
-- From 400 to 1K Ω [R1]
+- SMD led (SMD_0603) x2 [DE1, DE2] (UP/DOWN reverse mounted to see the light through the hole)
+- From 400 to 1K Ω (SMD_1206) [R1]
 
 
 ![PCB](./images/MD2.png)
@@ -112,8 +114,8 @@ Jumper configuration
 
 | JCOMP1 | JCOMP2 | JCOMP3 | J16A1 | J16B1 | J16C1-8|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Short 1 and 2|Short 2 and 3|Short 2 and 3|Short 1 and 2|Open|Short 1 and 2|
-|![J1](./images/j1.png)|![J2](./images/j2.png)|![J2](./images/j2.png)|![J1](./images/j1.png)|![J3](./images/j3.png)|![J1](./images/j1.png)|
+|Short 2 and 3|Short 2 and 3|Short 2 and 3|Short 1 and 2|Open|Short 1 and 2|
+|![J2](./images/j2.png)|![J2](./images/j2.png)|![J2](./images/j2.png)|![J1](./images/j1.png)|![J3](./images/j3.png)|![J1](./images/j1.png)|
 
 (Put IC4, R4, D3, D4 and C4)
 
