@@ -87,6 +87,7 @@ Componets
 Appareance
 ----------
 ![PCB](./images/MD2.png)
+![IMG1](./images/MD2_1.png)
 
 Jumper configuration
 --------------------
