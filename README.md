@@ -117,7 +117,7 @@ Jumper configuration
 |Short 2 and 3|Short 2 and 3|Short 2 and 3|Short 1 and 2|Open|Short 1 and 2|
 |![J2](./images/j2.png)|![J2](./images/j2.png)|![J2](./images/j2.png)|![J1](./images/j1.png)|![J3](./images/j3.png)|![J1](./images/j1.png)|
 
-(Put IC4, R4, D3, D4 and C4)
+(Put IC4, IC5, R4, D3, D4, C4 and C5)
 
 <br/>
 
