@@ -1,5 +1,6 @@
 # Magic Desk 2
-Open Hardware Project to build a 3 in 1 Commodore 64 cartridge, based on Magic Desk 1MB and Universal c64 Cartridge by Marko Šolajić
+Open Hardware Project to build a 3 in 1 Commodore 64 cartridge, based on Magic Desk 1MB and Universal c64 Cartridge by Marko Šolajić. <br/>
+Due to the low cost and availability of 27c160 EPROMs nowadays, building a cartridge with 2MByte of ROM is easy to do. Furthermore, the 27c160 EPROMs can be 8 bits addressed and, given the amount of pins, being THT is an advantage.
 
 3 Different configuratios
 -------------------------
