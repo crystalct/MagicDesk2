@@ -93,8 +93,8 @@ Appareance
 |:---:|:---|
 |![IMG1](./images/MD2_1.png)|![IMG2](./images/MD2_2.png)|
 |![IMG3](./images/MD2_3.png)|![IMG4](./images/MD2_4.png)|
-|![IMG5](./images/MD2_5.png)|![IMG6](./images/MD2_6.png)|
-|![IMG7](./images/MD2_7.png)||
+|![IMG5](./images/MD2_5.png)|![IMG6](./images/PIC_211311.jpg)|
+|![IMG7](./images/PIC_211329.jpg)||
 
 Jumper configuration
 --------------------
