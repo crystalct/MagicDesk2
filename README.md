@@ -69,7 +69,7 @@ Componets
 - 74LS00 (or 74HCT00) (SO_14) [IC5]
 - 10K Ω (SMD_1206) [R4]
 - 1N4148 (SMD_1206) x2 [D3, D4]
-- 100nF (SMD_0805) [C4, C5]
+- 100nF (SMD_0805) x2 [C4, C5]
 
 <br/>
 
