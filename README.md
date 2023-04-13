@@ -86,6 +86,8 @@ Componets
 
 Appareance
 ----------
+|||
+|:---:|:---|
 |![PCBfront](./images/MD2front.png)|![PCBrear](./images/MD2rear.png)|
 
 **Images**
