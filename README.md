@@ -154,5 +154,7 @@ Magic Desk 2 is Open Hardware licensed under the [CERN OHL v. 1.2](http://ohwr.o
 
 PCB
 ---
-![PCBWAY](./images/pcbway.png)
 You can get the pcb at [PCBWay](https://www.pcbway.com/project/shareproject/Magic_Desk_2_for_Commodore_64_62898d63.html)
+
+![PCBWAY](./images/pcbway.png)
+
