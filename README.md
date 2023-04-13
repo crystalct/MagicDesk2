@@ -67,8 +67,8 @@ Componets
 **GMod3 2MB only**
 - 74LS175 (or 74HCT175) (TSSOP_16) [IC4]
 - 74LS00 (or 74HCT00) (SO_14) [IC5]
-- 10K Ω (SMD_1206) [R4]
-- 1N4148 (SMD_1206) x2 [D3, D4]
+- 10K Ω (SMD_1206) [R4, R5]
+- 1N4148 (SMD_1206) x4 [D3, D4, D5, D6]
 - 100nF (SMD_0805) x2 [C4, C5]
 
 <br/>
@@ -129,7 +129,7 @@ Jumper configuration
 |Short 2 and 3|Short 2 and 3|Short 2 and 3|Short 1 and 2|Open|Short 1 and 2|
 |![J2](./images/j2.png)|![J2](./images/j2.png)|![J2](./images/j2.png)|![J1](./images/j1.png)|![J3](./images/j3.png)|![J1](./images/j1.png)|
 
-(Put IC4, IC5, R4, D3, D4, C4 and C5)
+(Put IC4, IC5, R4, R5, D3, D4, D5, D6, C4 and C5)
 
 <br/>
 
