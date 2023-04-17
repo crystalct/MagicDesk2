@@ -133,6 +133,15 @@ Jumper configuration
 
 <br/>
 
+**Magic Desk 2MB C128 Mode (Experimental)**
+
+| JCOMP1 | JCOMP2 | JCOMP3 | J16A1 | J16B1 | J16C1-8|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Short 1 and 2|Short 1 and 2|Short 1 and 2|Short 1 and 2|Open|Short 1 and 2|
+|![J1](./images/j1.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J3](./images/j3.png)|![J1](./images/j1.png)|
+
+<br/>
+
 **All configurations**
 
 |JPUnlocked1| |
