@@ -1,5 +1,5 @@
 # Magic Desk 2
-Open Hardware Project to build a 3 in 1 Commodore 64 cartridge, based on Magic Desk 1MB and Universal c64 Cartridge by Marko Šolajić. <br/>
+A Project to build a 3 in 1 Commodore 64 cartridge, based on Magic Desk 1MB and Universal c64 Cartridge by Marko Šolajić. <br/>
 Due to the low cost and availability of 27c160 EPROMs nowadays, building a cartridge with 2MByte of ROM is easy to do. Furthermore, the 27c160 EPROMs can be 8 bits addressed and, given the amount of pins, being THT is an advantage.
 
 3 Different configurations
@@ -157,9 +157,6 @@ Thanks to:
 - Marko Šolajić, for creating some Magic Desk Clone homebrew cartridge
 - Individual Computers for GMod3 specifications
 
-License
--------
-Magic Desk 2 is Open Hardware licensed under the [CERN OHL v. 1.2](http://ohwr.org/cernohl), released by *Salvo Cristaldi* in 2023. You may redistribute and modify this documentation under the terms of the CERN OHL v.1.2.
 
 **Soon will be available gerbers and schematics**
 
