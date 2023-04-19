@@ -133,7 +133,7 @@ Jumper configuration
 
 <br/>
 
-**Magic Desk 2MB C128 Mode (Experimental)**
+**Magic Desk 2MB C128 Mode (Not working, untill adding JC128 SolderJumper)**
 
 | JCOMP1 | JCOMP2 | JCOMP3 | J16A1 | J16B1 | J16C1-7| J16C8|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
