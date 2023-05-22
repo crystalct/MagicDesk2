@@ -113,8 +113,8 @@ Jumper configuration
 
 | JCOMP1 | JCOMP2 | JCOMP3 | J16A1 | J16B1 | J16C1-8|JC64|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Short 2 and 3|Short 1 and 2|Short 1 and 2|Short 1 and 2|Closed|Short 2 and 3|Short 2 and 3|
-|![J2](./images/j2.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J4](./images/j4.png)|![J2](./images/j2.png)|![J2](./images/j2.png)|
+|Short 2 and 3|Short 1 and 2|Short 1 and 2|Short 1 and 2|Open|Short 2 and 3|Short 2 and 3|
+|![J2](./images/j2.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J3](./images/j3.png)|![J2](./images/j2.png)|![J2](./images/j2.png)|
 
 (Put D1, D2 and R3)
 
