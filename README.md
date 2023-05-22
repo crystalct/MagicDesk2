@@ -85,8 +85,8 @@ Componets
 **Appareance**
 
 |||
-|:---:|:---|
-|![PCBfront](./images/MD2front.png)|![PCBrear](./images/MD2rear.png)|
+|:---:|
+|![PCB](./images/MagicDesk1.5.png)|
 
 **Images**
 |||
