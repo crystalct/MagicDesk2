@@ -84,7 +84,7 @@ Componets
 
 **Appareance**
 
-|||
+||
 |:---:|
 |![PCB](./images/MagicDesk1.5.png)|
 
