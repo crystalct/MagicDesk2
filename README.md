@@ -161,8 +161,6 @@ Thanks to:
 - Individual Computers for GMod3 specifications
 
 
-**Soon will be available gerbers and schematics**
-
 PCB
 ---
 If you dont want wait, can get pcb right now at [PCBWay](https://www.pcbway.com/project/shareproject/Magic_Desk_2_for_Commodore_64_62898d63.html)
