@@ -122,10 +122,10 @@ Jumper configuration
 
 **Double Magic Desk 1MB**
 
-| JCOMP1 | JCOMP2 | JCOMP3 | J16A1 | J16B1 | J16C1-8|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|Short 1 and 2|Short 1 and 2|Short 1 and 2|Short 1 and 2|Open|Short 1 and 2|
-|![J1](./images/j1.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J3](./images/j3.png)|![J1](./images/j1.png)|
+| JCOMP1 | JCOMP2 | JCOMP3 | J16A1 | J16B1 | J16C1-8|JC64|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Short 1 and 2|Short 1 and 2|Short 1 and 2|Short 1 and 2|Open|Short 1 and 2|Short 1 and 2|
+|![J1](./images/j1.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J3](./images/j3.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|
 
 (Put SWCOMP1 and R2)
 
@@ -133,10 +133,10 @@ Jumper configuration
 
 **GMod3 2MB Read Only cartridge**
 
-| JCOMP1 | JCOMP2 | JCOMP3 | J16A1 | J16B1 | J16C1-8|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|Short 2 and 3|Short 2 and 3|Short 2 and 3|Short 1 and 2|Open|Short 1 and 2|
-|![J2](./images/j2.png)|![J2](./images/j2.png)|![J2](./images/j2.png)|![J1](./images/j1.png)|![J3](./images/j3.png)|![J1](./images/j1.png)|
+| JCOMP1 | JCOMP2 | JCOMP3 | J16A1 | J16B1 | J16C1-8|JC64|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Short 2 and 3|Short 2 and 3|Short 2 and 3|Short 1 and 2|Open|Short 1 and 2|Short 1 and 2|
+|![J2](./images/j2.png)|![J2](./images/j2.png)|![J2](./images/j2.png)|![J1](./images/j1.png)|![J3](./images/j3.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|
 
 (Put IC4, IC5, R4, R5, D3, D4, D5, D6, C4 and C5)
 
@@ -144,10 +144,10 @@ Jumper configuration
 
 **Magic Desk 2MB C128 Mode (Not working, untill the addition of JC128 SolderJumper)**
 
-| JCOMP1 | JCOMP2 | JCOMP3 | J16A1 | J16B1 | J16C1-7| J16C8|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Open|Short 1 and 2|Short 1 and 2|Short 1 and 2|Open|Short 1 and 2|Open|
-|![J5](./images/j5.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J3](./images/j3.png)|![J1](./images/j1.png)|![J5](./images/j5.png)|
+| JCOMP1 | JCOMP2 | JCOMP3 | J16A1 | J16B1 | J16C1-7| J16C8|JC64|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Open|Short 1 and 2|Short 1 and 2|Short 1 and 2|Open|Short 1 and 2|Open|Short 1 and 2|
+|![J5](./images/j5.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J1](./images/j1.png)|![J3](./images/j3.png)|![J1](./images/j1.png)|![J5](./images/j5.png)|![J1](./images/j1.png)|
 
 <br/>
 
