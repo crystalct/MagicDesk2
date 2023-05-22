@@ -61,14 +61,12 @@ Componets
 **Magic Desk 16Kbyte only**
 - 10K Ω (SMD_1206) [R3]
 - 1N4148 (SMD_0805) x2 [D1, D2]
-
+(For Commodore 128 don't put R3, D1and D2, they are irrelevant)
 <br/>
 
 **GMod3 2MB only**
-- 74LS175 (or 74HCT175) (TSSOP_16) [IC4]
+- 74LS139 (or 74HCT139) (SO_14) [IC4]
 - 74LS00 (or 74HCT00) (SO_14) [IC5]
-- 10K Ω (SMD_1206) [R4, R5]
-- 1N4148 (SMD_1206) x4 [D3, D4, D5, D6]
 - 100nF (SMD_0805) x2 [C4, C5]
 
 <br/>
