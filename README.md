@@ -86,10 +86,10 @@ Componets
 
 ||
 |:---:|
-|![PCB](./images/MD2.png)|
+|![PCB](./images/MagicDEsk1.5.png)|
 
 **Schematics**
-![Schematics](./images/MD2SChematics.PNG)
+![Schematics](./images/MD2.PNG)
 
 **Images**
 |||
