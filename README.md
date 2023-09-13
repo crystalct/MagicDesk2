@@ -89,7 +89,7 @@ Componets
 |![PCB](./images/MD2_1.8.png)|
 
 **Schematics**
-![Schematics](./MD2_1.8.pdf)
+![Schematics](./images/MD2_1.8.pdf)
 
 **Images**
 |||
