@@ -86,7 +86,7 @@ Componets
 
 ||
 |:---:|
-|![PCB](./images/MagicDesk1.6.png)|
+|![PCB](./images/MD2_1.8.png)|
 
 **Schematics**
 ![Schematics](./images/MD2.png)
