@@ -48,7 +48,7 @@ You can configure this cartridge to partially follow the functional specificatio
 
 You can use the new [Magic Cartridge Generator](https://bitbucket.org/zzarko/magic-cartridge-generator) (by Žarko Živanov) to make 2Mbyte GMod3 bin images of games compilation.
 
-Componets
+Components
 ---------
 **All configurations**
 - 27C160 (DIP_42) [IC1]
