@@ -82,7 +82,7 @@ Components
 - SMD led (SMD_0603) x2 [DE1, DE2] (UP/DOWN reverse mounted to see the light through the hole)
 - From 400 to 1K Ω (SMD_1206) [R1]
 
-**Appareance**
+**Appeareance**
 
 ||
 |:---:|
