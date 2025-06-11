@@ -30,6 +30,8 @@ Furthermore:
 
 So, 128 banks and one bank is 16Kbyte: 2MByte of ROM space.
 
+Starting with the r45695 release, dated June 10, 2025, the VICE emulator added support for the Magic Desk 16K. [Vice r45695](https://github.com/VICE-Team/svn-mirror/releases/tag/r45695). 
+
 Double Magic Desk 1MB
 ---------------------
 You can put 2 different 1MByte bin images inside 27C160 EPROM (from $000000 to $0FFFFF and from $100000 to $1FFFFF) and select them using SWCOMP1 (or JP1) switch like 2 different sides of a magnetic tape data storage.<br/>Bin files can be made using [Magic Desk Cartridge Generator](https://bitbucket.org/zzarko/magic-desk-cartridge-generator/), as usual.
