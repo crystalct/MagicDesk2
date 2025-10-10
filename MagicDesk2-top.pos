@@ -1,0 +1,19 @@
+### Footprint positions - created on 2025-10-10T08:13:43+0200 ###
+### Printed by KiCad version 8.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                         PosX       PosY       Rot  Side
+C1        100n      C_0805_2012Metric           175.1900  -128.2500  -90.0000  top
+C2        100n      C_0805_2012Metric           151.8600  -108.9000  180.0000  top
+C3        100n      C_0805_2012Metric           128.1750   -85.7100  180.0000  top
+C4        100n      C_0805_2012Metric           129.0550  -119.8350    0.0000  top
+C5        100n      C_0805_2012Metric           124.5900  -104.2700    0.0000  top
+D1        1N4148    D_1206_3216Metric           147.0100   -93.8800  180.0000  top
+D2        1N4148    D_1206_3216Metric           147.0100   -90.4600  180.0000  top
+IC2       74LS273   SOP-20_7.5x12.8mm_P1.27mm   146.0500  -118.0800    0.0000  top
+IC3       74LS02    SO-14_3.9x8.65mm_P1.27mm    124.4000   -92.1800    0.0000  top
+IC4       74LS138   SO-16_3.9x9.9mm_P1.27mm     126.9810  -128.0960    0.0000  top
+IC5       74LS174   SO-16_3.9x9.9mm_P1.27mm     124.7060  -112.0650    0.0000  top
+R2        10k       R_1206_3216Metric           135.0500   -89.3100   90.0000  top
+R3        10k       R_1206_3216Metric           147.0700   -86.9200  180.0000  top
+## End
